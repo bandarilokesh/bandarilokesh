@@ -38,8 +38,6 @@ I enjoy turning ideas into working projects — especially **AI-powered applicat
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -60,7 +58,6 @@ I enjoy turning ideas into working projects — especially **AI-powered applicat
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -90,22 +87,6 @@ I regularly experiment with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bandarilokesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandarilokesh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bandarilokesh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -120,22 +101,4 @@ I regularly experiment with:
 <a href="mailto:lokeshvardhanb@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 💡 My Philosophy
-
-> **Learn → Build → Ship → Improve**
-
-I'm focused on building real products, learning through experimentation, and creating technology that solves meaningful problems.
-
-### 🚀 Long-term Goal
-
-**Build a high-impact career in technology and create a generational startup.**
-
----
-
-<p align="center">
-<b>Thanks for visiting my profile! ⭐</b>
 </p>
