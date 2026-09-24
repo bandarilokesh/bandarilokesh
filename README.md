@@ -66,11 +66,6 @@ Building practical AI applications, RAG systems, developer tools, and full-stack
 * 🤖 **[RAGX](https://github.com/rishankreddy12/RAGX)** — Cricket-focused RAG system with metadata filtering and semantic retrieval
 * 🚀 **Hackathon Projects** — Building AI, SaaS, automation & full-stack solutions
 
----
-
-
-
----
 
 ## 📬 Connect With Me
 
