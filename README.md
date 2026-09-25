@@ -65,16 +65,7 @@
 
 * 🚀 **Hackathon Projects** — Building practical AI, SaaS, automation, and full-stack solutions.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bandarilokesh&show_icons=true&theme=default&title_color=050ef2&icon_color=050ef2&text_color=334155&bg_color=ffffff&border_color=e2e8f0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bandarilokesh&layout=compact&theme=default&title_color=050ef2&text_color=334155&bg_color=ffffff&border_color=e2e8f0" width="48%" alt="Top Languages" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
